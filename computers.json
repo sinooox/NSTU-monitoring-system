@@ -1,0 +1,22 @@
+[
+    {
+        "computer_name": "DESKTOP-412-5",
+        "pc_status": "pcOff"
+    },
+    {
+        "computer_name": "IDO-425-2-08",
+        "pc_status": "pcOn"
+    },
+    {
+        "computer_name": "IDO-444-1",
+        "pc_status": "pcOff"
+    },
+    {
+        "computer_name": "IDO-222-1",
+        "pc_status": "pcOn"
+    },
+    {
+        "computer_name": "IDO-425-2-02",
+        "pc_status": "pcOff"
+    }
+]

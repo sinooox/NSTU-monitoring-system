@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<g id="background">
+	<rect style="fill:#FFFFFF;" width="600" height="600"/>
+</g>
+<g id="objects">
+	<g>
+		<rect x="40" y="427.5" style="fill:#CFD0D2;" width="520" height="18"/>
+		<rect x="40" y="427.5" style="fill:#CFD0D2;" width="520" height="18"/>
+		<rect x="543" y="427.5" style="fill:#B6B6B7;" width="17" height="18"/>
+		<rect x="40" y="427.5" style="fill:#FFFFFF;" width="15" height="18"/>
+		<path style="fill:#B6B6B7;" d="M335,437.5h-70c-3.866,0-7-3.134-7-7v-3h84v3C342,434.366,338.866,437.5,335,437.5z"/>
+		<path style="fill:#CFD0D2;" d="M560,445.5c0,0-16,11-40,11s-416,0-440,0s-40-11-40-11H560z"/>
+		<path style="fill:#1C1C1C;" d="M511,427.5H89v-274c0-5.523,4.477-10,10-10h402c5.523,0,10,4.477,10,10V427.5z"/>
+		<path style="fill:#1C1C1C;" d="M511,427.5H89v-274c0-5.523,4.477-10,10-10h402c5.523,0,10,4.477,10,10V427.5z"/>
+		<path style="fill:#3F3F3F;" d="M99,143.5h12c-5.52,0-10,4.48-10,10v274H89v-274C89,147.98,93.48,143.5,99,143.5z"/>
+		<path d="M511,153.5v274h-12v-274c0-5.52-4.48-10-10-10h12C506.52,143.5,511,147.98,511,153.5z"/>
+		<path style="fill:#FFFFFF;" d="M59,445.5c0,0,14.83,11,37.08,11H80c-24,0-40-11-40-11H59z"/>
+		<path style="fill:#B6B6B7;" d="M560,445.5c0,0-16,11-40,11h-16.08c22.25,0,37.08-11,37.08-11H560z"/>
+		<rect x="101" y="164.5" style="fill:#2DBCE8;" width="398" height="248"/>
+		<circle style="fill:#333333;" cx="300" cy="154.5" r="4"/>
+		<polygon style="fill:#7DE7FF;" points="346.78,164.5 101,410.28 101,201.5 138,164.5 		"/>
+		<polygon style="fill:#7DE7FF;" points="465,164.5 217,412.5 118.9,412.5 366.9,164.5 		"/>
+		<polygon style="fill:#7DE7FF;" points="499,221.06 499,374.5 461,412.5 307.56,412.5 		"/>
+		<polygon style="fill:#7DE7FF;" points="499,164.5 499,198.42 284.92,412.5 237.12,412.5 485.12,164.5 		"/>
+		
+			<rect x="40" y="427.5" style="fill:none;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:10;" width="520" height="18"/>
+		<path style="fill:none;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:10;" d="M335,437.5h-70
+			c-3.866,0-7-3.134-7-7v-3h84v3C342,434.366,338.866,437.5,335,437.5z"/>
+		<path style="fill:none;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:10;" d="M560,445.5
+			c0,0-16,11-40,11s-416,0-440,0s-40-11-40-11"/>
+		<path style="fill:none;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:10;" d="M511,427.5H89v-274
+			c0-5.523,4.477-10,10-10h402c5.523,0,10,4.477,10,10V427.5z"/>
+		
+			<rect x="101" y="164.5" style="fill:none;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:10;" width="398" height="248"/>
+		
+			<circle style="fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:10;" cx="300" cy="154.5" r="4"/>
+	</g>
+</g>
+</svg>
